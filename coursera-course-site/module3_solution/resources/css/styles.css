@@ -98,6 +98,7 @@ body {
   bottom: 0;
   right: 0;
   text-decoration: none;
+  display: none;
 }
 /* END HOME PAGE */
 
@@ -174,6 +175,10 @@ body {
     padding: 2em;
     text-align: left;
   }
+
+  .scrolltop {
+    display: block;
+  }
   /* END HOME PAGE */
 
   /* FOOTER */
@@ -190,6 +195,10 @@ body {
   /* END HEADER */
 
   /* HOME PAGE */
+
+  .scrolltop {
+    display: block;
+  }
 
   /* END HOME PAGE */
 }
