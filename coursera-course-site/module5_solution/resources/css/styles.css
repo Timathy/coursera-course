@@ -57,19 +57,19 @@ body {
   cursor: default;  vertical-align: middle;
 }
 
-.navbar-default .navbar-nav > li > a:hover,
-.navbar-default .navbar-nav > li > a:focus,
-.navbar-default .navbar-nav > li > a:visited,
-.navbar-default .navbar-nav > li > a:active {
+.navbar-default .navbar-nav > li > .list-menu-items:hover,
+.navbar-default .navbar-nav > li > .list-menu-items:focus,
+.navbar-default .navbar-nav > li > .list-menu-items:visited,
+.navbar-default .navbar-nav > li > .list-menu-items:active {
   background: #E6F4DC;
 }
 
 
 
-.navbar-default .navbar-nav > .active > a:hover,
-.navbar-default .navbar-nav > .active > a:focus,
-.navbar-default .navbar-nav > .active > a:visited,
-.navbar-default .navbar-nav > .active > a:active {
+.navbar-default .navbar-nav > .active > .list-menu-items:hover,
+.navbar-default .navbar-nav > .active > .list-menu-items:focus,
+.navbar-default .navbar-nav > .active > .list-menu-items:visited,
+.navbar-default .navbar-nav > .active > .list-menu-items:active {
   background: #E6F4DC;
 }
 
