@@ -13,9 +13,9 @@ https://timathy.github.io/coursera-course/coursera-course-site/module3_solution/
 https://timathy.github.io/coursera-course/coursera-course-site/module3_solution/optional.html
 
 # Module 4 Solution
-# Results can be checked from the console
+Results can be checked from the console
 https://timathy.github.io/coursera-course/coursera-course-site/module4_solution/harder/
 
 # Module 5 Solution
-# Special list is randomised
+Special list is randomised
 https://timathy.github.io/coursera-course/coursera-course-site/module5_solution/
