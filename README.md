@@ -2,8 +2,7 @@
 Coursera HTML, CSS3, JS repository
 
 # Visit the gh-pages for where the coursera assignments are completed, as well as the code
-https://github.com/Timathy/coursera-course/tree/gh-pages
-
+https://github.com/Timathy/coursera-course/tree/gh-pages/coursera-course-site
 # Module 2 Solition
 https://timathy.github.io/coursera-course/coursera-course-site/module2_solution/
 
